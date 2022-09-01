@@ -1,0 +1,12 @@
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+*.class
+*.jar
+
+target/*
+ExtSpringJUnit4ClassRunner.java
